@@ -1,4 +1,4 @@
-# Real Estate Database Project
+# Real Estate Agency Database Project
 This repository contains example SQL script to create and manage a comprehensive database for a real estate agency. The project is organized into 11 tables, each serving a specific purpose in the real estate management ecosystem.  
 The creation process begins with tables that have no foreign key dependencies, followed by tables with references to other tables. Constraints are then added, ensuring data integrity. The tables are finally populated with sample data to facilitate testing and development.
 ## Table Structure
